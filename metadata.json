@@ -1,0 +1,6 @@
+{
+  "name": "CreatorCut - Browser Video Editor",
+  "description": "Premium browser-based video editor with trimming, timeline, aspect ratios, multilingual subtitles (English, Urdu, Roman Urdu), text overlays, volume controls, SRT export, and MP4 rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
